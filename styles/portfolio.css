@@ -78,7 +78,7 @@ nav li {
 
 
 /* About section style */
-main {
+.section-width {
     max-width: 1140px;
     margin: 130px auto;
 }
@@ -221,6 +221,9 @@ hr {
 
 .contact .section-title {
     text-align: left;
+}
+.contact .section-description{
+    margin-bottom: 30px;
 }
 
 .contact a {
