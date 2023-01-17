@@ -222,7 +222,8 @@ hr {
 .contact .section-title {
     text-align: left;
 }
-.contact .section-description{
+
+.contact .section-description {
     margin-bottom: 30px;
 }
 
@@ -231,15 +232,12 @@ hr {
     margin-right: 24px;
 }
 
-.contact input[type='text'],input[type='email'],
+.contact input[type='text'],
+input[type='email'],
 textarea {
     border: 0px;
     margin-bottom: 24px;
     width: 100%;
     padding: 18px 30px;
     border-radius: 5px;
-}
-input{
-    /* height: 64px; */
-    
 }
